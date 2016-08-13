@@ -1,2 +1,7 @@
 some thing has changed
-while some does not
+while does not
+now
+every
+thing has
+changed
+
