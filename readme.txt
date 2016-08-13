@@ -1,5 +1,5 @@
 some thing has changed
-while does not
+while does notc
 now
 every
 thing has
